@@ -1,4 +1,4 @@
-<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/templates/Right-Cut-Header-Detail-form.gif" alt="Right Cut Header" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-detail-RightCutHeader/blob/master/template.gif" alt="Right Cut Header" height="auto" width="300"></p>
 
 ## Right Cut Header
 
