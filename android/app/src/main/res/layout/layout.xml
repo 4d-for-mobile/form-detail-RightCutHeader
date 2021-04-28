@@ -29,7 +29,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <com.qmobile.qmobileui.ui.parallax.VerticalScrollParallaxImageView
                     android:id="@+id/background_image"
                     android:layout_width="match_parent"
                     android:layout_height="300dp"
@@ -41,7 +41,8 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:background="@tools:sample/avatars" />
+                    tools:background="@tools:sample/avatars"
+                    tools:ignore="MissingClass" />
 
                 <View
                     android:layout_width="0dp"
